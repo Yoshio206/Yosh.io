@@ -1,0 +1,5 @@
+alert("i like you")
+alert("i know that i dont have a chance")
+alert("i just want you to know that i like you")
+alert("this is from your secret admirer")
+alert("i think not a secret anymore because i already confess to you in personal :)")
